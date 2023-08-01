@@ -1,0 +1,3 @@
+[submodule "djpayne"]
+	path = djpayne
+	url = https://github.com/Rbb621/djpayne.git
